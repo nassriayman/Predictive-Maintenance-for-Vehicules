@@ -40,6 +40,5 @@ The predictive model achieved an accuracy of 64.6% with a higher recall for the 
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request to propose changes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
