@@ -10,7 +10,7 @@ The goal of this project is to apply data science and machine learning technique
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Data
 The dataset includes various sensor readings from automotive systems such as engine RPM, lubrication oil pressure, fuel pressure, coolant pressure, and temperature readings. The 'Engine Condition' column is used as a label for predictive modeling.
