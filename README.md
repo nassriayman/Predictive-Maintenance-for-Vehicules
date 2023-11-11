@@ -30,9 +30,8 @@ To run the project, ensure you have Python 3.8+ installed along with the necessa
 - matplotlib (optional for plotting)
 
 Run the Jupyter Notebooks in the following order:
-1. `data_preprocessing.ipynb`
-2. `anomaly_detection.ipynb`
-3. `predictive_modeling.ipynb`
+1. `Predict_maint-checkpoint.ipynb`
+
 
 ## Results
 The predictive model achieved an accuracy of 64.6% with a higher recall for the positive class (engine fault). Further improvements are planned by refining the anomaly detection process and experimenting with different machine learning algorithms.
