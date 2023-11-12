@@ -13,7 +13,8 @@ The goal of this project is to apply data science and machine learning technique
   
 
 ## Data
-The dataset includes various sensor readings from automotive systems such as engine RPM, lubrication oil pressure, fuel pressure, coolant pressure, and temperature readings. The 'Engine Condition' column is used as a label for predictive modeling.
+The dataset includes various sensor readings from automotive systems such as engine RPM, lubrication oil pressure, fuel pressure, coolant pressure, and temperature readings. The 'Engine Condition' column is used as a label for predictive modeling. 
+Our dataset's link: [Engine-data](https://github.com/nassriayman/Predictive-Maintenance-for-Vehicules/blob/main/engine_data.csv)
 
 ## Methodology
 1. **Data Preprocessing**: Scaling features using RobustScaler to mitigate the influence of outliers.
